@@ -31,3 +31,6 @@ desktop.ini
 /fuel/app/logs/*/*/*
 /fuel/app/cache/*/*
 /fuel/app/config/crypt.php
+
+#Docs JS Libs
+/public/assets/js/angular-1.6.10/docs/
